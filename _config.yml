@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: Home, file: "index.html"}
+  - {title: Home, file: "home.md"}
   - {title: About Me, file: "README.md"}
   - {title: Blog, file: "blog.md"}
   - {title: Linkedin, url: "https://www.linkedin.com/in/coleman-cochran/"}
