@@ -18,11 +18,11 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Home, file: "index.html"}
   - {title: About Me, file: "README.md"}
+  - {title: Linkedin, url: "https://www.linkedin.com/in/coleman-cochran/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:colemanrcochran@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ColemanCochran/"}
-  - {title: Linkedin, icon: rss, url: "https://www.linkedin.com/in/coleman-cochran/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
