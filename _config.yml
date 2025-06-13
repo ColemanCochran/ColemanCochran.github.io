@@ -18,6 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Home, file: "index.html"}
   - {title: About Me, file: "README.md"}
+  - {title: Blog, file: "blog.md"}
   - {title: Linkedin, url: "https://www.linkedin.com/in/coleman-cochran/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
