@@ -11,6 +11,6 @@ My career goals are:
 - Continue at SpaceX working on their LEO satelite constellation Starlink 
 - Learn as much as I can about AI and gain experience
 
-When prompted, ChatGPT has this to say about me: "He has a soft spot for messy datasets, weirdly specific questions, and turning overthinking into a marketable skill. He builds things, analyzses stuff, and occasionally makes sense."
-
 ![Me](home.png)
+
+When prompted, ChatGPT has this to say about me: "He has a soft spot for messy datasets, weirdly specific questions, and turning overthinking into a marketable skill. He builds things, analyzses stuff, and occasionally makes sense."
