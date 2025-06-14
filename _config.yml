@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Home, file: "home.md"}
-  - {title: Resume, file: docs/Coleman_Cochran_Resume.pdf, icon: file-pdf, url: "https://colemancochran.github.io/docs/Coleman_Cochran_Resume.pdf"}
+  - {title: Resume, url: "https://colemancochran.github.io/docs/Coleman_Cochran_Resume.pdf"}
   - {title: Linkedin, url: "https://www.linkedin.com/in/coleman-cochran/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
