@@ -17,6 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Home, file: "home.md"}
+  - {title: Blog, file: "blog.md"}
   - {title: Resume, url: "https://colemancochran.github.io/docs/Coleman_Cochran_Resume.pdf"}
   - {title: Linkedin, url: "https://www.linkedin.com/in/coleman-cochran/"}
 
