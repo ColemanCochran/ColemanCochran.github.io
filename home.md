@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Home"
 ---
 
 # Hi, I'm Coleman 
@@ -9,7 +8,7 @@ I'm a student at the **University of Southern California** and the **London Scho
 
 I enjoy math and computer science but I use them as a framework/background to understand other topics. This has primarily assisted me as I've started to gain experience in SaaS, business, and the economy of space.
 
-Chat GPT describes me as: "He has a soft spot for messy datasets, weirdly specific questions, and turning overthinking into a marketable skill. He builds things, analyzse stuff, and occasionally make sense."
+ChatGPT describes me as: "He has a soft spot for messy datasets, weirdly specific questions, and turning overthinking into a marketable skill. He builds things, analyzse stuff, and occasionally make sense."
 
 
 
