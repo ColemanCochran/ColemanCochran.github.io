@@ -7,8 +7,8 @@ I've been fortunate to gain early exposure to the intersection of technology, da
 
 ---
 
-## SpaceX
-** Incoming Financial Analyst Intern
+SpaceX
+**Incoming Financial Analyst Intern**
 June 2025 - September 2025 · Los Angeles, CA
 
 Will be providing be providing data driven strategy insights for the Starlink finance and growth team
@@ -16,7 +16,7 @@ Will be providing be providing data driven strategy insights for the Starlink fi
 
 ---
 
-## BuildGroup  
+BuildGroup  
 **Summer Venture Associate**  
 June 2024 – September 2024 · Austin, TX
 
@@ -26,7 +26,7 @@ At BuildGroup (a growth-stage investor in B2B SaaS) I gained insight into ventur
 
 ---
 
-## IBM Accelerate Program  
+IBM Accelerate Program  
 **Client Engineering & Technical Sales Fellow**  
 June 2024 – July 2024 · Austin, TX 
 
@@ -36,7 +36,7 @@ Selected for IBM's competitive Accelerate program (5% acceptance rate), I collab
 
 ---
 
-## Independent Projects  
+Independent Projects  
 **Freelance Strategy & Data Intern**  
 *June 2023 – August 2023 · Austin, TX*
 
