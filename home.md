@@ -3,7 +3,7 @@ layout: page
 title: Hi, I'm Coleman
 ---
 
-![My Photo](https://colemancochran.github.io/images/home.md)
+![My Photo](https://github.com/ColemanCochran/contrast/blob/6d4c0106045a849c303b4762f6c8da1fa8457dd4/images/home.png)
 
 
 I'm a student at the **University of Southern California** and the **London School of Economics** studying Applied and Computational Mathematics with a focus on data science, computer science, and finance. (I spent my full junior year at LSE in the math department so I partially claim it)
