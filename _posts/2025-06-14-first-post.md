@@ -1,7 +1,7 @@
 ---
 title:  "First Post"
+data: 2025-06-14
 layout: post
-categories: media
 ---
 
 I built the website yesterday and am now testing the blog feature.
