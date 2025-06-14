@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Posts"
 ---
 
 {% if site.show_excerpts %}
