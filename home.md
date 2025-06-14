@@ -3,8 +3,7 @@ layout: page
 title: Hi, I'm Coleman
 ---
 
-![My Photo](home.png)
-
+<img src="home.png" alt="Me" width="200">
 
 I'm a student at the **University of Southern California** and the **London School of Economics** studying Applied and Computational Mathematics with a focus on data science, computer science, and finance. (I spent my full junior year at LSE in the math department so I partially claim it)
 
