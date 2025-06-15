@@ -1,7 +1,7 @@
 title: "Coleman Cochran"
 author: "Coleman Cochran"
 description: "Personal Site"
-permalink: /:title/
+permalink: /home/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
