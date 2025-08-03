@@ -8,7 +8,7 @@ Haven't done very much on here - SpaceX constitutes a greater portion of my life
 
 I've really enjoyed what I've done this summer and am happy I'm staying till September. 
 
-The most interesting thing I've learned about the company has been from events with the CEO and CFO. The company is undeniably directed toward reaching Mars - things like Starlink feel like "simple" (hehe) intermediate steps. SpaceX doesn't like money for money's sake - it's really an "in game currency" to enable the Mar's mission. This sounds ridiculous since this is both externally and internally true but for whatever reason I suspected an alterior motive somewhere in there.
+The most interesting thing I've learned about the company has been from events with the CEO and CFO. The company is undeniably directed toward reaching Mars - things like Starlink feel like "simple" (hehe) intermediate steps. SpaceX doesn't like money for money's sake - it's really an "in game currency" to enable the Mar's mission. This sounds ridiculous since this is both visibly true externally and internally but for whatever reason I suspected an alterior motive somewhere in there.
 
 I've definitely taken the Mars pill and have adopted the SpaceX attitude. I think once the AI hype wave runs its course the Space Industry will be next. AI or Space: pick your poison.
 
@@ -18,6 +18,6 @@ Anyhow, I miss London and Europe. I talked a lot of trash about London but that 
 
 I went to Mexico City on July 4th and witnessed the anti-gentrification / digital nomad protests. Going to SF and NYC relatively soon.
 
-Excited for senior year to start but have a feeling I'm going to wonder why I'm doing it. I feel like USC doesn't inspire me to build/learn/risk take like LSE did. I'll have to find that motivation in a new project. Otherwise looking forward to taking interesting math courses then fluffy GPA booster classes with non math people.
+Excited for senior year to start but have a feeling I'm going to wonder why I'm doing it. I feel like USC doesn't inspire me to build/learn/risk take like LSE did. I'll have to find that motivation in a new project. Otherwise looking forward to taking interesting math courses and fluffy GPA booster classes with non math people.
 
 There's your update you invisible crowd of stalkers.
